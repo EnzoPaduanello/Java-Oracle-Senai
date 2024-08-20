@@ -1,4 +1,4 @@
-public class letraB {
+public class LetraB {
     public static void main (String[] args){
         double fahrenheit, celsius;
 
